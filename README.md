@@ -19,6 +19,7 @@
 - `compiler_practice_times.xlsx` — таблица со временем компилирования
 - `compiler_practice_counts.xlsx` — таблица с количеством инструкций всех вариантов сборки
 - `compiler_practice_functions_code.xlsx` — таблица с ассемблерными кодами отдельных функций
+- `practice_report.docx` — отчет о практике
 
 ## Среда
 
